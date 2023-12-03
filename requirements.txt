@@ -9,3 +9,4 @@ pandas
 wikipedia
 llama-index==0.8.40 
 nltk==3.8.1 
+arxiv
