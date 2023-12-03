@@ -571,6 +571,6 @@ def create_report():
 
     # %%
     #wandb_callback.finish()
-    return report
+    return str(report)
 
 
