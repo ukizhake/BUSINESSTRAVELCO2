@@ -61,10 +61,10 @@ async def main(message: str):
     print([m.to_openai() for m in prompt.messages])
     response_text = create_report()
     # res_text = "hello world"
-    print("hello world")
-    await cl.Message(
-        content=f"{'good to see you! '+response_text}",
-    ).send()
+    print("hello world"+ response_text)
+
+    msg = cl.Message(content=response_text)
+    await msg.send()
 
     # Call OpenAI
     # async for stream_resp in await openai.ChatCompletion.acreate(

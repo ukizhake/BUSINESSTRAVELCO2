@@ -11,7 +11,8 @@ pinned: false
 
 ## <h1 align="center" id="heading">:wave: Welcome to Business Travel CO2 reporting!!</h1>
 
-<!-- Business travel emissions covered by target (metric tons CO2e)
+<!--h4> Sample report
+Business travel emissions covered by target (metric tons CO2e)
 
 The average CO2 emissions for business travel by air is 431.0 units.
 The average CH4 emissions for business travel by air is 7.15 units.
@@ -68,4 +69,4 @@ However, it is important to note that business travel by rail has higher average
 
 Additionally, business travel by air has higher average N2O emissions compared to business travel by rail. Nitrous oxide (N2O) is another greenhouse gas that contributes to climate change. Strategies to reduce N2O emissions from air travel should be explored to minimize its environmental impact.
 
-In conclusion, the analysis highlights the need for sustainable practices and alternative transportation options to reduce the environmental impact of business travel. This includes promoting more efficient air travel and exploring low-emission alternatives such as rail travel. By implementing measures to reduce CO2, CH4, and N2O emissions, businesses can contribute to a more sustainable future. -->
+In conclusion, the analysis highlights the need for sustainable practices and alternative transportation options to reduce the environmental impact of business travel. This includes promoting more efficient air travel and exploring low-emission alternatives such as rail travel. By implementing measures to reduce CO2, CH4, and N2O emissions, businesses can contribute to a more sustainable future. </h4-->
