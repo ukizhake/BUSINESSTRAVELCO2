@@ -1,0 +1,9 @@
+"Table 2.  Rail,,,,,,
+ ID, Description,Vehicle ,"Miles","CO2 Emissions","CH4 Emissions","N2O Emissions"
+JD-001,John Doe 1,"Transit Rail (i.e. Subway, Tram)",100,10,0.8,0.1
+JD-002,Chris,Intercity Rail - Other Routes,"4,510",677,52.8,17.1
+JD-003,Jonathan,Intercity Rail - Northeast Corridor,929,54,5.1,0.7
+JD-004,Sam,Intercity Rail - National Average,227,26,2.1,0.6
+JD-005,Sydney,Commuter Rail,"1,554",210,16.9,4.2
+JD-006,Abe,"Transit Rail (i.e. Subway, Tram)","7,370",708,59.0,8.1
+JD-007,Jack,Bus,"1,350",74,8.5,1.5

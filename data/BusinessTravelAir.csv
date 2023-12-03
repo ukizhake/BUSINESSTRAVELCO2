@@ -1,0 +1,6 @@
+"Table 3.  Air,,,,,,
+ ID, Description, Length,"Miles","CO2 Emissions","CH4 Emissions","N2O Emissions"
+JD-001,"John Doe 1","Medium Haul (>= 300 miles, < 2300 miles)","1,000",229,10.4,8.5
+JD-002,Mark,"Short Haul (< 300 miles)","2,200",455,14.1,14.5
+JD-003,Chris,"Long Haul (>= 2300 miles)","4,799",782,2.9,25.0
+JD-004,Brian,"Medium Haul (>= 300 miles, < 2300 miles)","2,000",258,1.2,8.2
