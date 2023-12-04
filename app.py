@@ -59,8 +59,8 @@ async def main(message: str):
     )
 
     print([m.to_openai() for m in prompt.messages])
-    response_text = create_report()
-    # res_text = "hello world"
+    # response_text = create_report()
+    response_text = "hello world"
     print("hello world"+ response_text)
 
     msg = cl.Message(content=response_text)
